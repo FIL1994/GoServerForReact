@@ -1,6 +1,6 @@
 # GoServerForReact
 <h4>
-A Go server,built with <a href="https://github.com/gin-gonic">gin-gonic</a>, for a React Application.
+  A Go server, built with <a href="https://github.com/gin-gonic">gin-gonic</a>, for a React application.
 </h4>
 
 
